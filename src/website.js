@@ -21,7 +21,7 @@ const createHeader = (id) =>{
     const titleContainer = document.createElement('div');
     titleContainer.classList.add('title-container')
     titleContainer.appendChild(ravenCrest);
-    titleContainer.appendChild(createTitle(`Crow's Nest Restuarant`))
+    titleContainer.appendChild(createTitle(`Crow's Nest Restaurant`))
 
     header.appendChild(titleContainer);
     header.appendChild(createNav('nav'));
