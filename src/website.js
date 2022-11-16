@@ -1,7 +1,7 @@
 import loadHome from "./home";
 import loadcontact from "./contact";
 import loadMenu from "./menu";
-import crest from './assets/ravenclaw crest.png'
+import crest from '../dist/assets/ravenclaw crest.png'
 
 
 const createHeader = (id) =>{

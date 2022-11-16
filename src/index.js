@@ -1,5 +1,5 @@
 import runWebsite from './website'
-import './styles/general.css'
+import '../dist/styles/general.css'
 
 
 runWebsite()

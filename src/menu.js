@@ -1,11 +1,11 @@
-import amalaImg from "./assets/amala.jpg";
-import jollof from "./assets/jollof.jpg";
-import fried from "./assets/fried rice.jpg";
-import yam from "./assets/yam and egg.jpg";
-import spagImg from "./assets/spag.jpg";
-import ewa from "./assets/ewa.jpg";
-import plantain from "./assets/plantain.jpg";
-import poundedYam from "./assets/poundedyam.jpg";
+import amalaImg from "../dist/assets/amala.jpg";
+import jollof from "../dist/assets/jollof.jpg";
+import fried from "../dist/assets/fried rice.jpg";
+import yam from "../dist/assets/yam and egg.jpg";
+import spagImg from "../dist/assets/spag.jpg";
+import ewa from "../dist/assets/ewa.jpg";
+import plantain from "../dist/assets/plantain.jpg";
+import poundedYam from "../dist/assets/poundedyam.jpg";
 
 const createMenu = () =>{
     const menu = document.createElement('div');
